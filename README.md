@@ -39,3 +39,8 @@
 <a href="https://www.instagram.com/yg_yg999/" target="_blank"><img width="40" height="40" alt="instagram" src="https://github.com/user-attachments/assets/341f5b3e-9e74-414c-88fc-618f79cf0d7b" />
 
 </a>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagoTavares1/YagoTavares1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagoTavares1/YagoTavares1/output/github-contribution-grid-snake-dark.svg">
+</picture>
