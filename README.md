@@ -3,12 +3,13 @@
 <hr></hr>
 👨🏽‍💻­ Sou Yago Tavares, estudante de Análise e Desenvolvimento de Sistemas na Fatec-SP.
 
-🐍 Atualmente focado em Python para automação e análise de dados, utilizando bibliotecas como `pandas`, `numpy`, `matplotlib`, `datetime`, `pyautogui`. `openpyxl`, `requests`, `pywhatkit` e também integro com APIs externas, como a API do Google Agenda.
+🐍 Atualmente, atuo com Python aplicado à automação de processos, análise e tratamento de dados, utilizando bibliotecas como `pandas`, `numpy`, `matplotlib`, `openpyxl` e `pyautogui`.
 
-🧠 Tenho interesse em organizar soluções eficientes, aplicar boas práticas e transformar dados em respostas úteis para o dia a dia.
+💼 Atualmente, sou estagiário na Vivo, onde tenho contato com projetos, processos e iniciativas de automação, buscando aplicar tecnologia para tornar atividades mais eficientes e organizadas.
 
-🦾 Busco uma oportunidade de estágio para crescer profissionalmente e aplicar meu conhecimento de forma prática.
-<h2>Ferramentas</h2>
+🧠 Tenho interesse em desenvolvimento de software, automação, dados e Inteligência Artificial, com foco em transformar problemas do dia a dia em soluções práticas e eficientes.
+
+📚 Estou constantemente aprimorando meus conhecimentos em Python, SQL, Git/GitHub, bancos de dados e boas práticas de desenvolvimento, além de desenvolver projetos próprios para consolidar esses conhecimentos.<h2>Ferramentas</h2>
 <table>
   <tr>
     <td align="center">
