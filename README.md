@@ -1,5 +1,5 @@
 <h1 align="center">Olá mundo! 👨🏽‍💻</h1>
-<img src="https://github.com/YagoTavares1/gif2profile/blob/main/gif%20para%20o%20github.gif?raw=true?raw=true" height=350px width="100%">
+<img src="https://github.com/YagoTavares1/gif2profile/blob/main/gif%20para%20o%20github.gif?raw=true" height=350px width="100%">
 <hr></hr>
 👨🏽‍💻­ Sou Yago Tavares, estudante de Análise e Desenvolvimento de Sistemas na Fatec-SP.
 
